@@ -1,0 +1,9 @@
+nav li {
+   display: inline-block;
+}
+a:hover {
+  background-color: Yellow;
+}
+button {
+   border-style: none;
+}
