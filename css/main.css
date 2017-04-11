@@ -1,5 +1,8 @@
 nav li {
    display: inline-block;
+   background-color: red;
+   padding: 100px
+   width: 100%;
 }
 a:hover {
   background-color: Yellow;
